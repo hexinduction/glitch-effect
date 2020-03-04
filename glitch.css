@@ -6,6 +6,7 @@ body {
 
 .glitch {
   position: relative;
+  top: 30vh; 
   color: #fff;
   font-size: 9vw;
   font-family: avenir;
